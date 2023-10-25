@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CG_Bank.Program" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CG_Bank.DatabaseConnection" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAJABAAQQQAAAAAIAAABAAQAAA=</HashCode>
+      <FileName>DatabaseConnection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CG_Bank.Anasayfa" Collapsed="true">
+    <Position X="5.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAACAAABAACACEAAACAAAQAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Anasayfa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CG_Bank.Temsilci.BekleyenHesapOnaylari" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAKAAAACAAABAAAgCAAAECAAggBAQEMBQAAAAAAAA=</HashCode>
+      <FileName>Temsilci\BekleyenHesapOnaylari.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CG_Bank.Temsilci.MusteriListesi" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CEQAKAACgCAAQBAAAgCAAABCAAgwAARAIAAAAAAAAAA=</HashCode>
+      <FileName>Temsilci\MusteriListesi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CG_Bank.Temsilci.TemsilciGiris" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACAAAACCRABAAAACACAECAAAgAAAAAAAAAAAQAgA=</HashCode>
+      <FileName>Temsilci\TemsilciGiris.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CG_Bank.Temsilci.TemsilciMenu" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACACQAAACCBCBABCADAAAACAAAgIEAAAAAEAAAAAAA=</HashCode>
+      <FileName>Temsilci\TemsilciMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CG_Bank.Temsilci.MusteriGuncelle" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACEAAACAAABAAAgCAAAECEAAJAAAAAABCAAAAAgA=</HashCode>
+      <FileName>Temsilci\MusteriGuncelle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CG_Bank.Temsilci.MusteriEkle" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACEAAACAAABAAAgCAAAECAAEJAAAAQABCAAAQAgA=</HashCode>
+      <FileName>Temsilci\MusteriEkle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CG_Bank.Temsilci.MusteriIslemleri" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACAAAACAAAAAAAgCAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Temsilci\MusteriIslemleri.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CG_Bank.Temsilci.MusteriDurumlari" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAKAAAACAgABAQAgCAAAACAAgkAAQAIAEAAAAAAAA=</HashCode>
+      <FileName>Temsilci\MusteriDurumlari.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CG_Bank.Temsilci.BekleyenKrediOnaylari" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAKAAAACAAABAAAgCAAAECAAggBAQEMBQAAAAAAAA=</HashCode>
+      <FileName>Temsilci\BekleyenKrediOnaylari.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CG_Bank.Musteri.BilgiGuncelle" Collapsed="true">
+    <Position X="7" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACEAAACAAABAAAgCAAAECEAAJAAAAAABCAAAAAAA=</HashCode>
+      <FileName>Musteri\BilgiGuncelle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CG_Bank.Musteri.MusteriGiris" Collapsed="true">
+    <Position X="10.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACAAAACCRABAAAACACAECAAAgAAAAAAAAAAAQAgA=</HashCode>
+      <FileName>Musteri\MusteriGiris.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CG_Bank.Musteri.MusteriMenu" Collapsed="true">
+    <Position X="5.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAABgKiBIBAAAECAAEACAAAAoAAAAAAIQAIABAI=</HashCode>
+      <FileName>Musteri\MusteriMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CG_Bank.Musteri.Hesaplarim" Collapsed="true">
+    <Position X="5.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQAKAAAgCAAQBAAAgCAAABCAAgwAARAIAACAAAIAAA=</HashCode>
+      <FileName>Musteri\Hesaplarim.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CG_Bank.Musteri.Kredilerim" Collapsed="true">
+    <Position X="8.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQAKAAAgCAAADAAAgCAAAACIAggAARAIAAAAAAAAAA=</HashCode>
+      <FileName>Musteri\Kredilerim.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CG_Bank.Musteri.HesapEkle" Collapsed="true">
+    <Position X="10.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACACAACAgABAQQgCAAAACABAIAAAAAAECAAAAAAA=</HashCode>
+      <FileName>Musteri\HesapEkle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CG_Bank.Musteri.HesapAyrintilari" Collapsed="true">
+    <Position X="8.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Musteri\HesapAyrintilari.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CG_Bank.Musteri.AylikOzet" Collapsed="true">
+    <Position X="5.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAABAAAgCAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Musteri\AylikOzet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CG_Bank.Musteri.ParaCek" Collapsed="true">
+    <Position X="7" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQQCAAAACAgABAQAgCAAEACAAAAAAAAAAEABCIIAAA=</HashCode>
+      <FileName>Musteri\ParaCek.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CG_Bank.Musteri.ParaYatir" Collapsed="true">
+    <Position X="10.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQQCAAAACAgABAQAgCAAEACAAAAAAAAAAEAABIIAAA=</HashCode>
+      <FileName>Musteri\ParaYatir.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CG_Bank.Musteri.ParaGonder" Collapsed="true">
+    <Position X="8.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQACAAAACAAABgQAiCAAEACAIABgQAAIAEIAAIAAAI=</HashCode>
+      <FileName>Musteri\ParaGonder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CG_Bank.Musteri.KrediEkle" Collapsed="true">
+    <Position X="7" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQQCACAACAgABAQAgCAAAACABAIAAAAAAECAAIAAAA=</HashCode>
+      <FileName>Musteri\KrediEkle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

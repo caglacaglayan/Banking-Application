@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Anasayfa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Mudur\MudurGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Musteri\AylikOzet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Musteri\BilgiGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Musteri\HesapAyrintilari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Musteri\HesapEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Musteri\Hesaplarim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Musteri\KrediEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Musteri\Kredilerim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Musteri\MusteriGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Musteri\MusteriMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Musteri\ParaCek.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Musteri\ParaGonder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Musteri\ParaYatir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Temsilci\BekleyenHesapOnaylari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Temsilci\BekleyenKrediOnaylari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Temsilci\MusteriDurumlari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Temsilci\MusteriEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Temsilci\MusteriGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Temsilci\MusteriIslemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Temsilci\MusteriListesi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Temsilci\TemsilciGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Temsilci\TemsilciMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
